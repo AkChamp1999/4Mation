@@ -156,4 +156,10 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
       width: 320px;
       height: 240px;
     }
+    .pubg-logo{
+        text-align:center;
+    }
+    .stats-img{
+        width:100%;
+    }
 }
