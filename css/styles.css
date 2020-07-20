@@ -89,7 +89,10 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
     padding: 7% 15%;
 }
 
-
+#vid{
+  width: 620px;
+  height: 540px;
+}
 /*statistics section*/
 
 #statistics {
